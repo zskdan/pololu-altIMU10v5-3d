@@ -1,0 +1,6 @@
+[submodule "libraries/lis3mdl-arduino"]
+	path = libraries/lis3mdl-arduino
+	url = https://github.com/pololu/lis3mdl-arduino
+[submodule "libraries/lsm6-arduino"]
+	path = libraries/lsm6-arduino
+	url = https://github.com/pololu/lsm6-arduino
